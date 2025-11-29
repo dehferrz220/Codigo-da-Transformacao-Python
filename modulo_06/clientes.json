@@ -1,0 +1,17 @@
+{
+    "001": {
+        "nome": "Lucas",
+        "idade": 18,
+        "status": "Ativa"
+    },
+    "002": {
+        "nome": "Ana",
+        "idade": 17,
+        "status": "Ativo"
+    },
+    "003": {
+        "nome": "André",
+        "idade": 17,
+        "status": "Administrador"
+    }
+}
