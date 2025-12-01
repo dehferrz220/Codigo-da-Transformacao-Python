@@ -1,0 +1,40 @@
+hotelaria/
+│
+├── main.py
+│
+├── hospedes/
+│   ├── __init__.py
+│   ├── cadastro.py
+│   ├── busca.py
+│   └── atualizacao.py
+│
+├── reservas/
+│   ├── __init__.py
+│   ├── criar_reserva.py
+│   ├── cancelar_reserva.py
+│   └── listar_reservas.py
+│
+├── quartos/
+│   ├── __init__.py
+│   ├── gerenciar_quartos.py
+│   └── precos.py
+│
+├── pagamentos/
+│   ├── __init__.py
+│   ├── checkout.py
+│   └── historico_pagamentos.py
+│
+├── relatorios/
+│   ├── __init__.py
+│   ├── ocupacao.py
+│   ├── faturamento.py
+│   └── reservas_relatorio.py
+│
+├── util/
+│   ├── __init__.py
+│   ├── validadores.py
+│   └── banco.py
+│
+└── config/
+    ├── __init__.py
+    └── constantes.py
